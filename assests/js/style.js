@@ -1,7 +1,7 @@
-const selectionButtons = document.querySelectorAll('[data-selection]')
-const finalColumn = document.querySelector('[data-final-column]')
-const ChallangerScoreSpan = document.querySelector('[data-Challanger-score]')
-MeScoreSpan = document.querySelector('[data-Me-score]')
+const selectionButtons = document.querySelectorAll('[data-selection]');
+const finalColumn = document.querySelector('[data-final-column]');
+const ChallangerScoreSpan = document.querySelector('[data-Challanger-score]');
+MeScoreSpan = document.querySelector('[data-Me-score]');
 const SELECTIONS = [
     {
         name: 'rock',
@@ -65,4 +65,3 @@ function randomSelection() {
     const randomIndex = Math.floor(Math.random() * SELECTIONS.length)
     return SELECTIONS [randomIndex]
 }
-
