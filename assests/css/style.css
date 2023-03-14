@@ -1,48 +1,13 @@
 body {
     background-color: rgb(0, 21, 255);
-    
+
 }
+
 h1 {
-    
-    border-style: groove, solid, 2px;
     display: flex;
     justify-content: center;
     font-size: 2.5rem;
     color: rgb(255, 255, 255);
-}
-
-.container {
-    width: 25%;
-    height: 10vh;
-    background: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.btn {
-    padding: 10px, 60px;
-    background: white;
-    border: 0;
-    outline-style: dashed;
-    cursor: pointer;
-    font-size: 40px;
-    font-weight: 600;
-    border-radius: 40px;
-}
-
-.popup {
-    width: 400px;
-    background: white;
-    border-radius: 10px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: -50%, -50%;
-    text-align: center;
-    padding: 0, 30px, 30px;
-    color: black;
-
 }
 
 .selections {
@@ -69,18 +34,19 @@ h1 {
     grid-template-columns: repeat(2, 1fr);
     justify-items: center;
     align-items: center;
-    margin-top: 10rem;
+    margin-top: 2rem;
     font-size: 3.5rem;
     color: rgb(255, 255, 255);
 }
 
 .results-score {
+    margin-left: .2rem;
     color: rgb(133, 122, 122);
     font-size: 2.5rem;
 }
 
 .result-selection {
-    opacity: 0.5;
+    opacity: .5;
 }
 
 .result-selection.winner {
