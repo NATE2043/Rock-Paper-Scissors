@@ -11,13 +11,27 @@ This is my first JavaScript project.
 I wanted to keep it simple and straight forward. You select one of the symbols for either [rock, paddle, or scissors] and the score will increment, and you can play agains the computer as long as you want; it will reset once you refresh the screen.
 
 
-The game consists of
+## Table of contents
+
+Title and Description
+Acknowledgemnts
+Features
+Running Tests
+UX
+Colour
+User
+Respository
+live site
+ 
+This game consists of
 HTML,
 JavaScript,
 CSS
 which is one page with no menus or pop-ups,
-With the basics, I made this game colorful yet simple.## Acknowledgements
+With the basics, I made this game colorful yet simple.
 
+
+## Acknowledgements
 
 I watched the YouTube channel for help on how to make the JavaScript work using the correct functions. https://www.youtube.com/watch?v=1yS-JV4fWqY His name is Kyle, and his YouTube channel is https://www.youtube.com/user/WebDevSimplified. He made it a lot easier to understand the functions and what they do to make my game work, including incrementing the score and making the number change as the game goes on. It was very helpful, and I can't thank him enough for explaining the process in a way that is very simple for beginners.
 
@@ -113,4 +127,10 @@ I made it so the score will increment based on the choices.
 and the score will indicate the winner at the top once the player decides to finish. The choices will continue down the page.
 so you can go back and see how your choices match up with the scores at the top.
 
-[def]: docs/homepage.png
+[def]: docs/homepage.png 
+
+## Repository 
+https://github.com/NATE2043/Rock-Paper-Scissors
+
+## Live Site
+https://8000-nate2043-rockpapersisso-252yyalbmz4.ws-eu93.gitpod.io/
