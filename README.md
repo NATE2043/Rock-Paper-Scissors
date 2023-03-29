@@ -43,7 +43,7 @@ I used simple emojis that I found on my keyboard, which I just copied and pasted
 
 ## Running Tests
 
-![lighthouse](lighthouse.png)
+![lighthouse](docs/lighthouse.png)
 
 I tested the game with the following:
 I used Lighthouse for the first test.
@@ -53,31 +53,34 @@ accessability = 100%
 Best practices = 100%
 SEO = 91%.
 
-![css validator](/workspace/Rock-Paper-Sissors/docs/css.png)
+![css validator](docs/css.png)
 
 To test my CSS, I used the W3C CSS Validator (https://jigsaw.w3.org/css-validator/), and it showed no errors.
 
-![]()
+![errors found with css](docs/error css.png)
 
 Once I discovered the CSS wasn't working correctly, I began to repair my code.
 I had some errors show up on the text shadow part, such as missing semicolons and some missing commas in my text shadow section, so I replaced them with the correct syntax, and the CSS stopped showing the red underlined markers for errors with my code!
 Once I added the missing semicolon and the spell check and edited the amount of shadowing, it turned green in my editor, and then I checked it in my deployed project site.
 
-![]()
+
 
 I then checked my HTML by using the W3C HTML Validator (https://validator.w3.org/), and that showed no errors.
 
-![]()
+![HTML Validator](docs/html.png)
+
 
 I then checked if my game was responsive, and all screen sizes showed no issues.
 I went to the site called Am I Responsive (https://ui.dev/amiresponsive) online, and it showed me all of the screen sizes.
 
-![]()
-![]()
+![responsiveness checker](docs/responsive.png)
+![responsive pic 2](docs/responsive2.png)
+
 
 I used js hint ( https://jshint.com/ ) to check my java script, and that showed up like 36 problems; I wasn't sure how to repair them, so I had to contact student care, as I had never used java script before, and it was so alien to me that I had to Google some answers; I didn't know what to search for to make the repairs. So once student care came back to me, it turned out to be a few minor errors with missing semi-colons that I didn't realise needed to be the same in Javascript, but I will remember that from now on, and there were some spelling mistakes that turned up and were repaired. I had spelled the word challenger wrong, but once it was pointed out to me, it was repaired straight away.
 
-
+![JavaScript checker](docs/JavaScript validator JSHINT.com.png)
+![JSHint fixed](docs/JsHint fixed.png)
 
 ## UX
 
