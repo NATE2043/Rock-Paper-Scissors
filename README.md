@@ -27,7 +27,7 @@ To run tests, run the following command
   npm run test
 ```
 
-I ran a lighthouse check and it was sucessful,I also used the rocommended html, css and javascript checkers witch all came back with no errors found in the HTML and the CSS but the javascript was unclear i have attached screenshots of each.
+I ran a lighthouse check and it was sucessful,I also used the rocommended html, css and javascript checkers whitch all came back with no errors found in the HTML and the CSS but the javascript was unclear i have attached screenshots of each.
 
 
 ## Color Reference
