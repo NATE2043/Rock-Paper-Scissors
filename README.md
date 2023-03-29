@@ -23,12 +23,17 @@ User
 Respository
 live site
  
+
+## Technology used
 This game consists of
-HTML,
-JavaScript,
+HTML
+I used this to cretate the basic structure of the webpage.
+
 CSS
-which is one page with no menus or pop-ups,
-With the basics, I made this game colorful yet simple.
+I used this to style the webpage and its features.
+
+JAVASCRIPT
+I used Javascript to give it functions and the game interactive.
 
 
 ## Acknowledgements
