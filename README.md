@@ -1,5 +1,5 @@
 # Rock,Paper,Scissors
-![homepage](homepage.png)
+![homepage](docs/homepage.png)
 
 This game was my first attempt with JavaScript. I wanted to create a simple yet effective game, and I wanted it to be challenging enough so that you didn't lose interest quickly.
 
@@ -109,3 +109,5 @@ As a user, I want you to enjoy the game and have a challenge trying to beat it, 
 I made it so the score will increment based on the choices.
 and the score will indicate the winner at the top once the player decides to finish. The choices will continue down the page.
 so you can go back and see how your choices match up with the scores at the top.
+
+[def]: docs/homepage.png
